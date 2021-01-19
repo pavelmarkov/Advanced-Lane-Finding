@@ -105,7 +105,7 @@ I implemented this step in lines 77 through 84 in my code in `detect.py` in the 
 
 #### 1. Link to final video output.
 
-Here's a [link to my video result](./project_video.mp4)
+Here's a [link to my video result](./output_video.mp4)
 
 ---
 
